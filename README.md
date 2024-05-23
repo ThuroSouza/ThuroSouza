@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThuroSouza
-- 👀 I’m interested in some codes, Volleyball, Electric Guitar, TV Shows and Anime
+- 👀 I’m interested in some codes, Basketball, Volleyball, Electric Guitar, TV Shows and Anime
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: @arthuro_souza on Instagram.
 
