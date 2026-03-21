@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThuroSouza
 - 👀 I’m interested in codes, Basketball, Volleyball, Electric Guitar, TV Shows and Anime
-- 🌱 I’m currently learning JavaScript and React.JS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: @arthuro_souza on Instagram.
 
 <!---
